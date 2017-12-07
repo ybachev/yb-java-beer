@@ -1,0 +1,27 @@
+[
+  {
+    "format": "MeetUp",
+    "event": "Bg JUG",
+    "name": "Java Beer at KANAAL, Sofia",
+    "number": 1,
+    "summary": "Beer is the perfect ingredient for social experiences and for a year proved to be good fit for Java talks as well.",
+    "description": "It all started with ScaleFocus. ? One year later we will reunite the cast to open the new java.beer season. The usual suspects are our friends from ScaleFocus and KANAAL, the date is 16th of November. Join us for a beer, Java chat and geek moments. The night will be full of surprises. Get ready!",
+    "organiser": "Bg JUG",
+    "sponsor": {
+      "name": "ScaleFocus",
+      "extraInfo": "",
+      "logo": "data/images/scalefocus-square-logo.png"
+    },
+    "language": "BG",
+    "when": "16-11-2017 19:00",
+    "subscription": {
+        "required": "false",
+        "dueDate": "16-11-2017 19:00",
+        "link": "",
+        "text": ""
+      },
+    "slogan": "java.beer",
+    "locationMap": "UNKNOWN",
+    "id": "1"
+  }
+  ]
